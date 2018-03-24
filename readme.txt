@@ -6,3 +6,4 @@ creating a new branch is quick & simple.
 no--ff
 stash function1
 stash fucntion0
+stash function3
