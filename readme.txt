@@ -10,3 +10,4 @@ stash function3
 multi_development
 doing
 doing again
+replace the origin of github
